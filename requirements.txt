@@ -1,0 +1,10 @@
+pandas
+numpy
+networkx
+matplotlib
+scikit-learn
+datasets
+langchain
+langchain-community
+openai
+python-dotenv
