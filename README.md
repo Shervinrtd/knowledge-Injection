@@ -30,5 +30,4 @@ We implemented and compared three distinct architectures to answer expert-labele
 
 ## Contributors
 - Alireza Shahidiani
-- Omid Nejati
-- Gita Javadi
+
